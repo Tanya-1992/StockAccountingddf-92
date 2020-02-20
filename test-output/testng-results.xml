@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="328239" started-at="2020-02-11T09:19:14Z" finished-at="2020-02-11T09:24:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="328239" started-at="2020-02-11T09:19:14Z" finished-at="2020-02-11T09:24:43Z">
+      <class name="CommonFunlibrary.NewTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:CommonFunlibrary.NewTest@2a5ca609]" name="f" duration-ms="326800" started-at="2020-02-11T14:49:14Z" finished-at="2020-02-11T14:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- CommonFunlibrary.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
